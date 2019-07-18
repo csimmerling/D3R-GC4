@@ -1,5 +1,5 @@
 # D3R-GC4
-Supporting Informatino data from 
+Supporting Information data from 
 Blinded prediction of protein-ligand binding affinity using Amber thermodynamic integration for the 2018 D3R grand challenge 4
 Junjie Zou, Chuan Tian, Carlos Simmerling
 
