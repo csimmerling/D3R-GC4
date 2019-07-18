@@ -1,6 +1,8 @@
 # D3R-GC4
 Supporting Information data from 
+
 Blinded prediction of protein-ligand binding affinity using Amber thermodynamic integration for the 2018 D3R grand challenge 4
+
 Junjie Zou, Chuan Tian, Carlos Simmerling
 
 File misc.xlsx contains 1) list of indexes corresponding to ligand IDs; 2) ligand IDs in each group as shown in Fig. 1; 3) initial state, end state and number of steps of each transition in Fig. 1; 4) calculated and experimental ∆G values. 5) raw data and figure for Fig. 6. 
